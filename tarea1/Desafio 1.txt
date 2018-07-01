@@ -1,0 +1,119 @@
+Objetos Tangibles
++Mesas
++Pizarras
++Cuadernos
+
+Objetos Intangibles
++Semetres/Trimestres
++Los Decagolos
++La Libertad de expresion
+
+--------------------------------------------------------------
+Atributos
+Tangible
++Pizarra:
+Es blanca o verde
+se puedes escribir o dibujar en ella con tiza o marcadores acrilocos 
+Se borra lo escrito o dibujado con fasilidad con un simple trapo o borrador especial
+suele ser de un tamaño grande para que los espectadores a ella puedan ver con facilidad
+suele ser de un tamaño grande para almacenar mas contenido en ella
+
+
+Intangible:
++Semestre/Trimestre
+tiene un periodo de 3/6 meses
+En ellos se veran nuevas materias
+En ellos tambien podras ver las mismas materias pero con un mayor nivel
+
+-------------------------------------------------------------------------
+Metodos
++Mesas
+Colocar objetos
+Como Apoyo para escribir
+Colocar objetos Pesados
+
++Pizarra
+Escribir en ella
+Visualizar mejor el contenido Para entender mejor
+Retiene informacion para ser copiada despues con tranquilidad
+
++Cuadernos
+Escribir en ellos
+Ayuda para repasar o estudiar
+Para tener cosas importantes anotadas en ellos
+
+------------------------------------------------------------------------
+Clases
+
+1.
+Profesores
+Atributos:
+Enseñan
+Evaluan
+Explican contenidos
+
+Nombre (caracter)
+Edad (numerico)
+Genero (caracter)
+Color de cabello (caracter)
+Enseña (caracter)
+años laborando (numerico)
+
+Metodos:
++comparten sus conocimientos a los estudiantes
++Ayudan a los estudiates con dudas
+
+***********************************
+a.Profesor Hector
+Hector Gonzalez
+45 
+Masculino
+blanco
+Ingles
+24
+
+b.Profesor Yuleima
+Yuleima Otero
+Femenino
+castaño
+Educacion Fisica
+8
+============================================
+2.Estudiantes
+atributos
+Aprenden
+Practican
+
+Nombre (caracter)
+Edad (numerico) 
+Genero (caracter)
+Color de cabello (caracter)
+Estudia (Caracter)
+semestres/trimestres (numerico)
+
+Metodos:
+Van para aprender 
+Estudiar
+Se interesan por que es algo que les gusta
+*******************************************
+a.Sergio
+Sergio Galindez
+21
+Hombre
+castaño
+Electronica
+4
+
+b.Juan
+Juan David Isaac-Cura
+19
+Hombre
+Rubio
+Comercio Extranjero
+3
+
+
+
+
+
+

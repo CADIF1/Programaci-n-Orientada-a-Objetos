@@ -1,0 +1,72 @@
+Contexto Organizacional de un banco
+===================================
+1.Descripcion de los objetos:
+
+Tangibles: Sillas,Personal de trabajo, Camaras De Seguridad, Taquillas, Cajeros, cubiculo de seguridad para el vigilante,boveda, computadoras,  cheques, planillas de datos, dinero en efectivo
+
+Intangibles:Dinero Electronico, Sistema de Proteccion, Sistema De seguridad en cpntrat de los delitos ciberneticos; debitos de dinero en la cuenta, comunicaccion entre puntos de venta y el sistema que lo procesa,sitema de seguridad bancario,sistema de acceso a las bovedas.
+
+
+-------------------------------------------------
+2.Clase Banco
+atributos:
+Ofrecen:    (alfanumerico)	
+Ayudan A:   (alfanumerico)
+Su idea es: (alfanumerico)
+-----
+Nombre: (alfanumerico) ~Clase estudiante
+cedula: (Entero) ~clase estudiante 
+correo: (logico) 
+Edad:   (Entero) ~clase estudiante
+
+
+3.Clase estudiante
+Atributos
+Nombre: (alfanumerico)
+cedula: (Entero)
+correo: (logico)
+Edad:   (Entero)
+
+4.Clase colegio
+Profesores
+Coleccion de objetos: sillas
+Coleccion de objetos: mesas
+Coleccion de objetos: salones
+
+
+5.Super clase personas
+
+Nombre: (alfanumerico)
+cedula: (Entero)
+correo: (logico)
+Edad:   (Entero)
+
+clase trabajadores.
+dan su servicios a clientes
+
+sub clase trabajadores en taquilla:
+atienendes a los clintes
+le hacen su gention de cuentas necesarias
+disponen de retiro o deposito de dinero para los clientes
+
+sub clases trabajador de limpieza
+mantienen el lugar limpio y presentable al publico
+cualquier eventualidad de suciedad, van y lo limpian
+
+sub clase trabajador vigilante
+mantiene el lugar seguro de cualquier robo
+esta pendiente por la seguridad de los trabajadores y/o clientes
+detiene cualquier evento o delito que este pasando
+
+clase clientes.
+nesecitan servicios/proctuctos.
+sub clase tercera edad:
+Van con ayuda para resolvver sus problemas
+
+sub clase Nuevo cliente
+van con ayuda a aperturar una nueva cuenta
+
+sub clase cliente del banco
+va con el motivo de ver su estado de cuenta
+ve su finanzamientos
+ve sus creditos.
